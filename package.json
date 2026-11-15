@@ -1,8 +1,34 @@
 {
   "name": "study-deck",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "StudyDeck: Zero-Omission Mastery Platform with BECE355L Advanced Cloud Computing curriculum & Solved Papers",
   "type": "module",
+  "keywords": [
+    "aws",
+    "cloud-computing",
+    "study-deck",
+    "flashcards",
+    "spaced-repetition",
+    "active-recall",
+    "concept-map",
+    "quiz-app",
+    "exam-preparation",
+    "cheat-sheet",
+    "react",
+    "vite",
+    "tailwindcss",
+    "bece355l",
+    "vit",
+    "serverless",
+    "edtech",
+    "learning-platform"
+  ],
+  "author": "Aakash Nair",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sky-Code06/StudyDeck.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
